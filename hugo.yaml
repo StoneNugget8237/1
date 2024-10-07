@@ -23,6 +23,8 @@ languages:
           title: 群『星』闪耀，始终如『屹』
           subtitle: 星屹工作室官网正在换新中
           buttons:
+            - name: 体验新官网（测试中）
+              url: "https://beta.ctnstudios.top"
             - name: 访问旧版官网
               url: "https://old.ctnstudios.top"
 
